@@ -1,0 +1,179 @@
+ul {
+    list-style: none;
+    text-align: center;
+    background-color: rgb(61, 30, 218);
+    padding: 20px;
+
+
+}
+
+li {
+    display: inline;
+    margin: 50px;
+
+}
+
+li a {
+    color: aliceblue;
+    text-decoration: none;
+}
+
+li a:hover {
+    color: yellowgreen;
+    text-decoration: none;
+}
+
+.neel {
+    background-color: aliceblue;
+    color: blue;
+    font-size: 30px;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding: 10px;
+
+}
+
+.mission {
+    background-color: aliceblue;
+    color: blue;
+    font-size: 30px;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding: 10px;
+}
+
+.qua {
+    background-color: aliceblue;
+    color: blue;
+    font-size: 30px;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding: 10px;
+}
+
+.ace {
+    background-color: aliceblue;
+    color: blue;
+    font-size: 30px;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding: 10px;
+}
+
+
+p {
+    margin-left: 50px;
+    margin-right: 50px;
+    background-color: aliceblue;
+    margin-top: 0%;
+    padding: 50px;
+    font-size: 20px;
+
+}
+
+img {
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 5px;
+    width: 1500px;
+
+}
+
+.about {
+    font-size: 50px;
+    text-align: center;
+    background-color: blueviolet;
+    color: white;
+}
+
+.box1 {
+    background-color: darkgreen;
+    padding: 50px;
+    margin-right: 0%;
+    width: 70px;
+    float: right;
+
+
+}
+
+.box2 {
+    background-color: darkgreen;
+    padding: 50px;
+    margin-right: 0%;
+    width: 60px;
+    float: right;
+}
+
+.box3 {
+    background-color: darkgreen;
+    padding: 50px;
+    margin-right: 0%;
+    width: 60px;
+    float: right;
+
+
+}
+
+.box4 {
+    background-color: darkgreen;
+    padding: 50px;
+    margin-right: 0%;
+    width: 920px;
+    float: right;
+
+}
+
+.BOX {
+    flex-direction: row;
+    margin-left: 0%;
+    color: white;
+    font-size: 20px;
+}
+
+.box4 a {
+    color: white;
+    margin: 20px;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.box4 a:hover {
+    text-decoration: underline;
+}
+
+.box4 br {
+    color: white;
+    margin: 7px;
+    font-size: medium;
+}
+
+.box1 img {
+    width: 50px;
+    border: none;
+}
+
+.box2 img {
+    width: 80px;
+    border: none;
+}
+
+.box3 img {
+    width: 50px;
+    border: none;
+}
+
+.box1 img:hover {
+    width: 50px;
+    border: solid black;
+    
+}
+
+.box2 img:hover {
+    width: 80px;
+    border: solid black;
+}
+
+.box3 img:hover {
+    width: 50px;
+    border: solid black;
+}
